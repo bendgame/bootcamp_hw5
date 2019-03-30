@@ -7,3 +7,10 @@ Suburban areas seem like a good city type to target for marketing. They generate
 
 It doesn't seem like the number of drivers has much affect on average fare. Looking at the scatter plot, we can see cities with low driver counts can generate high average fares and generate low average fares. We can see the average number of drivers scale with population density, but that makes sense: Fewer clients means less demand for drivers. I would recommend trying to increase driver count in Suburban cities to increase ride availability since that city type generates high fares. 
 
+![alt text](https://github.com/bendgame/bootcamp_hw5/blob/master/PyberRideSharing.png)
+
+![alt text](https://github.com/bendgame/bootcamp_hw5/blob/master/Total%20Fares.png)
+
+![alt text](https://github.com/bendgame/bootcamp_hw5/blob/master/Total%20rides.png)
+
+![alt text](https://github.com/bendgame/bootcamp_hw5/blob/master/Total%20drivers.png)
